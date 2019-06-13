@@ -18,7 +18,7 @@ Simple API that given a phone number sends an SMS containing informations about 
     -   **Code:**  200  
         **Content:**  `{ SUCCESS : true }`
 -   **Error Response:**
-    -   **Code:**  400/422 
+    -   **Code:**  400/422  
         **Content:**  `{ SUCCESS : false }`
     
 -   **Deployment Link:**
